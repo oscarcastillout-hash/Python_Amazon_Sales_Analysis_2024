@@ -30,3 +30,5 @@ This project was created by Oscar as part of a data science portfolio focused on
 This project is released under the MIT License. You are free to use, modify, and share the code with proper attribution.
 
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/5e0cc33f-fff0-4d15-bed8-ca40a4c648e0" />
+<img width="1283" height="450" alt="image" src="https://github.com/user-attachments/assets/86eae2cd-f1cc-44bc-bb6b-4ef60e525581" />
+
