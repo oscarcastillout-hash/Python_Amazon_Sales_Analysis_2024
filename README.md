@@ -28,3 +28,5 @@ This project was created by Oscar as part of a data science portfolio focused on
 📌 License
 
 This project is released under the MIT License. You are free to use, modify, and share the code with proper attribution.
+
+<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/5e0cc33f-fff0-4d15-bed8-ca40a4c648e0" />
